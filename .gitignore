@@ -1,0 +1,6 @@
+# folders
+node_modules/
+src/
+images/
+package-lock.json
+debug.log
